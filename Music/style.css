@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;800&display=swap');
 :root {
     --bgColor:#ef3e36;
-    --accentColor: #E6E6E6;
-    --font: 'Arial', sans-serif;
+    --accentColor: #ffffff;
+    --font: 'Helvetica', sans-serif;
 }
 
 body{
@@ -15,11 +15,11 @@ body{
     height: 110px;
     display: block;
     margin: 35px auto 20px;
-    border-radius: 50%;
+    border-radius: 150%;
 }
 
 #userName{
-    color: #bbb;
+    color: #ffffff;
     font-size: 1rem;
     font-weight: 800;
     line-height: 1.25;
